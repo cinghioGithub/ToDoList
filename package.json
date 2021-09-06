@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "express-session": "^1.17.2",
+    "passport": "^0.4.1",
+    "passport-local": "^1.0.0"
+  }
+}
