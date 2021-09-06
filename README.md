@@ -1,15 +1,8 @@
-# BigLab 2 - Class: 2021 AW1 A-L
+# To Do List
 
-## Team name: 3 Uomini E Un Array
-
-Team members:
-* Alessandro Cannarella - s290713
-* Danilo D'Antoni - s276913
-* Enrico Bravi - s283938
+## Project realized for Web Application 1 course of Master Degree in computer engineering at Politecnico di Torino
 
 ## Instructions
-
-A general description of the BigLab 2 is avaible in the `course-materials` repository, [under _labs_](https://github.com/polito-WA1-AW1-2021/course-materials/tree/main/labs/BigLab2/BigLab2.pdf). In the same repository, you can find the [instructions for GitHub Classroom](https://github.com/polito-WA1-AW1-2021/course-materials/tree/main/labs/GH-Classroom-BigLab-Instructions.pdf), covering this and the next BigLab.
 
 Once cloned this repository, instead, write your names in the above section.
 
